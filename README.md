@@ -6,6 +6,6 @@
 	- Builds off of my previous experience using Python and Flask, these two frameworks are very similiar but django is more relevant in industry.
   - Docker
   - Bulma or Tailwind
-- [ ] Spicetify Custom Theme/Apps/Extenmsions
+- [ ] Spicetify Custom Theme/Apps/Extensions
 	- Existing frameworks and Open Source Code
 	- CSS
